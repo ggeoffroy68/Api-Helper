@@ -1,0 +1,12 @@
+{
+  "name": "laguigs-api-helper-package",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.5"
+  }
+}
